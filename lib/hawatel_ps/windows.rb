@@ -1,0 +1,5 @@
+require 'hawatel_ps/windows/proc_fetch'
+require 'hawatel_ps/windows/proc_control'
+require 'hawatel_ps/windows/proc_info'
+require 'hawatel_ps/windows/proc_table'
+require 'hawatel_ps/windows/wmi/wmi_cli'

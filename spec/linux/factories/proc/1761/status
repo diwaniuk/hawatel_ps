@@ -1,0 +1,46 @@
+Name:	java_fake
+State:	S (sleeping)
+Tgid:	1761
+Ngid:	0
+Pid:	1761
+PPid:	1524
+TracerPid:	0
+Uid:	1000	1000	1000	1000
+Gid:	1000	1000	1000	1000
+FDSize:	512
+Groups:	4 24 27 30 46 113 122 124 1000 
+NStgid:	1761
+NSpid:	1761
+NSpgid:	1190
+NSsid:	1190
+VmPeak:	 3373940 kB
+VmSize:	 3276256 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	  965220 kB
+VmRSS:	  962084 kB
+VmData:	 3120080 kB
+VmStk:	     136 kB
+VmExe:	       4 kB
+VmLib:	   26232 kB
+VmPTE:	    2344 kB
+VmPMD:	      24 kB
+VmSwap:	       0 kB
+Threads:	50
+SigQ:	0/15603
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001000
+SigCgt:	2000000181004ccf
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000003fffffffff
+Seccomp:	0
+Cpus_allowed:	00000000,00000000,00000000,00000003
+Cpus_allowed_list:	0-1
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	1
+nonvoluntary_ctxt_switches:	5
