@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Ruby gem for retrieving information about running processes"
   spec.description   = %q{HawatelPS (hawatel_ps) is a Ruby gem for retrieving information about running processes. It is easy to use and you can get useful information about a process.
-                          You can terminate, suspend, resume and check status of the process on Linxu platform. On Windows platform you can terminate and check state of the process.}
+                          You can terminate, suspend, resume and check status of the process on Linxu platform. On Windows platform you can terminate and check state of the process. }
   spec.homepage      = "http://github.com/hawatel/hawatel_ps"
   spec.license       = "MIT"
 
